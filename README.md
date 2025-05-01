@@ -94,3 +94,27 @@ Para cada etapa:
 - Los tests deben ejecutarse correctamente
 - El código debe estar documentado
 - Se debe seguir el enfoque TDD
+
+
+# Trabajo Práctico: Recursividad y TDD
+
+## Etapa 1: Factorial
+
+### Descripción del problema
+
+En esta etapa, se implementan dos funciones para calcular el factorial de un número:
+
+1. **Versión Iterativa**: Usa un bucle `for` para calcular el factorial de un número.
+2. **Versión Recursiva**: Usa recursión (la función se llama a sí misma) para calcular el factorial.
+
+Se manejan casos especiales, como números negativos, que lanzan un error de tipo `ValueError`.
+
+---
+
+### Instrucciones de ejecución
+
+Para correr los tests y verificar que las funciones funcionan correctamente, ejecutá lo siguiente en la terminal:
+
+```bash
+python3 test_factorial.py
+
