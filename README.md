@@ -118,3 +118,17 @@ Para correr los tests y verificar que las funciones funcionan correctamente, eje
 ```bash
 python3 test_factorial.py
 
+## Etapa 2 - Parte A: Refactorización de Factorial
+
+Se refactorizaron las funciones del cálculo de factorial (`factorial_iterative` y `factorial_recursive`) para incluir:
+- Docstrings explicativos
+## Etapa 2 - Parte B: Implementación de Fibonacci
+
+Se implementaron dos versiones de la función Fibonacci:
+- Iterativa (`fibonacci_iterative`)
+- Recursiva (`fibonacci_recursive`)
+
+Incluyen:
+- Manejo de errores para entradas inválidas (n < 1)
+- Docstrings explicativos
+- Pruebas unitarias completas con `unittest`

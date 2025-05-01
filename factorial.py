@@ -1,4 +1,3 @@
-#acá irá el código del factorial (iterativo y recursivo)
 def factorial_iterative(n):
     """
     Calcula el factorial de un número de forma iterativa.
