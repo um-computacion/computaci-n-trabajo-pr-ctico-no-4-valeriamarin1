@@ -1,8 +1,8 @@
 # Trabajo Práctico 4: Recursividad
 
 ## Información del Alumno
-- Nombre: 
-- Apellido:
+- Nombre: valeria 
+- Apellido: marin morales 
 - Legajo:
 
 ## Objetivos
