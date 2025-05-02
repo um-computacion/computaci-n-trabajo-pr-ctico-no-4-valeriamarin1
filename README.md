@@ -132,3 +132,13 @@ Incluyen:
 - Manejo de errores para entradas inválidas (n < 1)
 - Docstrings explicativos
 - Pruebas unitarias completas con `unittest`
+
+## Etapa 3
+
+Creamos una función recursiva llamada `flatten` que toma una lista que puede contener otras listas anidadas (listas dentro de listas) y devuelve una lista “aplanada” (sin anidamientos).
+
+Luego, hicimos un archivo de pruebas (`test_flatten.py`) que verifica si la función funciona correctamente con varios casos de prueba usando `assert`.
+
+Finalmente, se ejecutaron los tests y se tomó una captura de pantalla con el resultado exitoso.
+
+![Captura de pantalla](imagenes/test_flatten_ok.png)
